@@ -3078,12 +3078,12 @@ mso-ansi-language:EN-US;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman",serif;
 mso-fareast-font-family:"Times New Roman";color:black;mso-themecolor:text1;
 mso-ansi-language:EN-US;mso-fareast-language:RU'>Thank you for choosing to be
-part of our community at&nbsp;FACERENT TECHNOLOGIES
-INC.&nbsp;(&quot;Company&quot;, &quot;we&quot;, &quot;us&quot;,
+part of our community at&nbsp;PRËMO INC.
+&nbsp;(&quot;Company&quot;, &quot;we&quot;, &quot;us&quot;,
 &quot;our&quot;). We are committed to protecting your personal information and
 your right to privacy. If you have any questions or concerns about this privacy
 notice, or our practices with regards to your personal information, please
-contact us at&nbsp;support@facerent.com.<o:p></o:p></span></p>
+contact us at&nbsp;martin_ennoid@icloud.com.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
 lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman",serif;
@@ -3093,8 +3093,8 @@ mso-ansi-language:EN-US;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
 lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman",serif;
 mso-fareast-font-family:"Times New Roman";color:black;mso-themecolor:text1;
-mso-ansi-language:EN-US;mso-fareast-language:RU'>When you&nbsp;use our mobile
-application,&nbsp;as the case may be (the &quot;App&quot;)&nbsp;and more
+mso-ansi-language:EN-US;mso-fareast-language:RU'>When you&nbsp;use our platforms
+,&nbsp;as the case may be (the &quot;App&quot;)&nbsp;and more
 generally, use any of our services (the &quot;Services&quot;, which include
 the&nbsp;App), we appreciate that you are trusting us with your personal
 information. We take your privacy very seriously. In this privacy notice, we
@@ -5105,18 +5105,18 @@ mso-ansi-language:EN-US;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
 lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman",serif;
 mso-fareast-font-family:"Times New Roman";color:black;mso-themecolor:text1;
-mso-ansi-language:EN-US;mso-fareast-language:RU'>FACERENT TECHNOLOGIES INC.<o:p></o:p></span></p>
+mso-ansi-language:EN-US;mso-fareast-language:RU'>PRËMO INC.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
 lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman",serif;
 mso-fareast-font-family:"Times New Roman";color:black;mso-themecolor:text1;
-mso-ansi-language:EN-US;mso-fareast-language:RU'>6794 Saint-Denis Street<o:p></o:p></span></p>
+mso-ansi-language:EN-US;mso-fareast-language:RU'>1502, AVE BARDY<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
 lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman",serif;
 mso-fareast-font-family:"Times New Roman";color:black;mso-themecolor:text1;
-mso-ansi-language:EN-US;mso-fareast-language:RU'>Montr&eacute;al,&nbsp;Quebec&nbsp;QC
-H2S 2S2<o:p></o:p></span></p>
+mso-ansi-language:EN-US;mso-fareast-language:RU'>QUEBEC,&nbsp;QC
+G1J 4R5<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
 lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman",serif;
